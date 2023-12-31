@@ -1,1 +1,1 @@
-# proof-1
+# proof
